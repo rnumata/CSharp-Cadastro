@@ -5,7 +5,7 @@ app Cadastro
 ### __Description__
 
 It is an app developed attending the Des. Sistemas MS discipline at university Positivo </br>
-Its aim perform a four basic functions of persistent storage - CRUD </br>
+Its aim is performing a four basic functions of persistent storage - CRUD </br>
 Used a software design pattern - Model | View | Controller
 
 ### __Technologies Used__
