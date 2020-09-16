@@ -10,8 +10,8 @@ Used a software design pattern - Model | View | Controller
 
 ### __Technologies Used__
 
-IDE Visual Studio
-C#</br>
+IDE Visual Studio </br>
+Language C#</br>
 EntityFramework - Code First
 
 ### __Learnings__
